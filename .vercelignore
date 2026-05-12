@@ -1,0 +1,7 @@
+node_modules
+.next
+.git
+.env*.local
+app/socials/node_modules
+app/socials/.next
+app/socials/.vercel
