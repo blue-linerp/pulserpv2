@@ -1,0 +1,251 @@
+[
+  {
+    "id": "allowlist",
+    "slug": "allowlist",
+    "title": "FiveM Allowlist Application",
+    "description": "This is our free application that does not require a priority review. There is no ETA on review and will be reviewed in order as received.",
+    "enabled": true,
+    "paid": false,
+    "questions": [
+      {
+        "id": "banned",
+        "label": "Have you ever been banned, on this server or others at any time and why?",
+        "hint": "Be truthful, we will check. Name the servers and the rule breaks.",
+        "type": "richtext",
+        "required": true,
+        "options": []
+      },
+      {
+        "id": "staff-work",
+        "label": "What work do you want to do as staff?",
+        "hint": "Please Select one or all.",
+        "type": "checkboxes",
+        "required": true,
+        "options": [
+          "Player Reports",
+          "Player Event Help",
+          "Event Creation",
+          "Discord Moderation",
+          "Other"
+        ]
+      },
+      {
+        "id": "experience",
+        "label": "Experience?",
+        "hint": "Please mention RP community management, GTA Administration, customer support, Forum/Discord moderation.",
+        "type": "richtext",
+        "required": true,
+        "options": []
+      },
+      {
+        "id": "motivation",
+        "label": "Why do you want to be Pulse RP staff?",
+        "hint": "Explain in detail your motivations and the value you bring.",
+        "type": "richtext",
+        "required": true,
+        "options": []
+      },
+      {
+        "id": "impartiality",
+        "label": "How important is 'impartiality' in reports?",
+        "hint": "Explain in your own words.",
+        "type": "richtext",
+        "required": true,
+        "options": []
+      },
+      {
+        "id": "availability",
+        "label": "What is your availability?",
+        "hint": "How many hours are you EU/AU/NA? What times exactly are you around in your time zone.",
+        "type": "richtext",
+        "required": true,
+        "options": []
+      },
+      {
+        "id": "characters",
+        "label": "Who do you play on our server?",
+        "hint": "Tell us about all the characters you play on our servers. Are they in a Gov job? A gang? Or do they simply live the civilian lifestyle?",
+        "type": "richtext",
+        "required": true,
+        "options": []
+      },
+      {
+        "id": "acknowledgement",
+        "label": "Acknowledgement",
+        "hint": "Do you acknowledge that upon acceptance you may be required to sign a Non-Disclosure Agreement and legally binding contract?",
+        "type": "select",
+        "required": true,
+        "options": [
+          "Yes, I understand!",
+          "No"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "developer",
+    "slug": "developer",
+    "title": "Developer Application",
+    "description": "Application for Web Developers (UX Design), 3D Developers, LUA & Fullstack Developers, Graphic Designers and Artists, Car Handling Developers.",
+    "enabled": true,
+    "paid": false,
+    "questions": [
+      {
+        "id": "banned",
+        "label": "Have you ever been banned, on this server or others at any time and why?",
+        "hint": "Be truthful, we will check. Name the servers and the rule breaks.",
+        "type": "richtext",
+        "required": true,
+        "options": []
+      },
+      {
+        "id": "staff-work",
+        "label": "What work do you want to do as staff?",
+        "hint": "Please Select one or all.",
+        "type": "checkboxes",
+        "required": true,
+        "options": [
+          "Player Reports",
+          "Player Event Help",
+          "Event Creation",
+          "Discord Moderation",
+          "Other"
+        ]
+      },
+      {
+        "id": "experience",
+        "label": "Experience?",
+        "hint": "Please mention RP community management, GTA Administration, customer support, Forum/Discord moderation.",
+        "type": "richtext",
+        "required": true,
+        "options": []
+      },
+      {
+        "id": "motivation",
+        "label": "Why do you want to be Pulse RP staff?",
+        "hint": "Explain in detail your motivations and the value you bring.",
+        "type": "richtext",
+        "required": true,
+        "options": []
+      },
+      {
+        "id": "impartiality",
+        "label": "How important is 'impartiality' in reports?",
+        "hint": "Explain in your own words.",
+        "type": "richtext",
+        "required": true,
+        "options": []
+      },
+      {
+        "id": "availability",
+        "label": "What is your availability?",
+        "hint": "How many hours are you EU/AU/NA? What times exactly are you around in your time zone.",
+        "type": "richtext",
+        "required": true,
+        "options": []
+      },
+      {
+        "id": "characters",
+        "label": "Who do you play on our server?",
+        "hint": "Tell us about all the characters you play on our servers. Are they in a Gov job? A gang? Or do they simply live the civilian lifestyle?",
+        "type": "richtext",
+        "required": true,
+        "options": []
+      },
+      {
+        "id": "acknowledgement",
+        "label": "Acknowledgement",
+        "hint": "Do you acknowledge that upon acceptance you may be required to sign a Non-Disclosure Agreement and legally binding contract?",
+        "type": "select",
+        "required": true,
+        "options": [
+          "Yes, I understand!",
+          "No"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "priority-allowlist",
+    "slug": "priority-allowlist",
+    "title": "FiveM Priority Allowlist Application",
+    "description": "This is a Paid Priority Review Allowlist application, that requires you to purchase a Gold subscription or higher on our web store. Permits one application submission. Before submitting, provide multiple clips showcasing your roleplay abilities.",
+    "enabled": true,
+    "paid": true,
+    "questions": [
+      {
+        "id": "banned",
+        "label": "Have you ever been banned, on this server or others at any time and why?",
+        "hint": "Be truthful, we will check. Name the servers and the rule breaks.",
+        "type": "richtext",
+        "required": true,
+        "options": []
+      },
+      {
+        "id": "staff-work",
+        "label": "What work do you want to do as staff?",
+        "hint": "Please Select one or all.",
+        "type": "checkboxes",
+        "required": true,
+        "options": [
+          "Player Reports",
+          "Player Event Help",
+          "Event Creation",
+          "Discord Moderation",
+          "Other"
+        ]
+      },
+      {
+        "id": "experience",
+        "label": "Experience?",
+        "hint": "Please mention RP community management, GTA Administration, customer support, Forum/Discord moderation.",
+        "type": "richtext",
+        "required": true,
+        "options": []
+      },
+      {
+        "id": "motivation",
+        "label": "Why do you want to be Pulse RP staff?",
+        "hint": "Explain in detail your motivations and the value you bring.",
+        "type": "richtext",
+        "required": true,
+        "options": []
+      },
+      {
+        "id": "impartiality",
+        "label": "How important is 'impartiality' in reports?",
+        "hint": "Explain in your own words.",
+        "type": "richtext",
+        "required": true,
+        "options": []
+      },
+      {
+        "id": "availability",
+        "label": "What is your availability?",
+        "hint": "How many hours are you EU/AU/NA? What times exactly are you around in your time zone.",
+        "type": "richtext",
+        "required": true,
+        "options": []
+      },
+      {
+        "id": "characters",
+        "label": "Who do you play on our server?",
+        "hint": "Tell us about all the characters you play on our servers. Are they in a Gov job? A gang? Or do they simply live the civilian lifestyle?",
+        "type": "richtext",
+        "required": true,
+        "options": []
+      },
+      {
+        "id": "acknowledgement",
+        "label": "Acknowledgement",
+        "hint": "Do you acknowledge that upon acceptance you may be required to sign a Non-Disclosure Agreement and legally binding contract?",
+        "type": "select",
+        "required": true,
+        "options": [
+          "Yes, I understand!",
+          "No"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "id": "ticket_1778472118044",
+    "steamId": "76561199545844491",
+    "username": "TVCTICALHD",
+    "title": "Bitch",
+    "server": "FiveM Public",
+    "category": "RP Support",
+    "status": "open",
+    "createdAt": 1778472118044,
+    "updatedAt": 1778472126791,
+    "messages": [
+      {
+        "id": "message_1778472118044",
+        "authorSteamId": "76561199545844491",
+        "authorName": "TVCTICALHD",
+        "authorRole": "user",
+        "body": "<h1 style=\"text-align: center;\">Bitch</h1><p></p>",
+        "createdAt": 1778472118044
+      },
+      {
+        "id": "message_1778472126791",
+        "authorSteamId": "76561199545844491",
+        "authorName": "TVCTICALHD",
+        "authorRole": "user",
+        "body": "Bitch",
+        "createdAt": 1778472126791
+      }
+    ]
+  },
+  {
+    "id": "ticket_1777604961608",
+    "steamId": "76561199545844491",
+    "username": "TVCTICALHD",
+    "title": "Test",
+    "server": "FiveM Public",
+    "category": "RP Support",
+    "status": "open",
+    "createdAt": 1777604961608,
+    "updatedAt": 1777608208732,
+    "messages": [
+      {
+        "id": "message_1777604961608",
+        "authorSteamId": "76561199545844491",
+        "authorName": "TVCTICALHD",
+        "authorRole": "user",
+        "body": "<p>Testestsestre</p>",
+        "createdAt": 1777604961608
+      },
+      {
+        "id": "message_1777604985359",
+        "authorSteamId": "76561199545844491",
+        "authorName": "TVCTICALHD",
+        "authorRole": "admin",
+        "body": "Hello",
+        "createdAt": 1777604985359
+      },
+      {
+        "id": "message_1777608208732",
+        "authorSteamId": "76561199545844491",
+        "authorName": "TVCTICALHD",
+        "authorRole": "user",
+        "body": "Hello Sir",
+        "createdAt": 1777608208732
+      }
+    ]
+  }
+]

@@ -1,0 +1,73 @@
+{
+  "branding": {
+    "siteName": "Pulse RP",
+    "tagline": "ROLEPLAY",
+    "logoUrl": "/uploads/logo-1777594987982.png",
+    "faviconUrl": "/uploads/favicon-1777590610085.png",
+    "businessEmail": "contact@pulse-rp.com",
+    "storeUrl": "https://store.pulse-rp.com",
+    "discordUrl": "https://discord.pulse-rp.com",
+    "rulesUrl": "/rules"
+  },
+  "colors": {
+    "bgPrimary": "#0a0a0a",
+    "bgSecondary": "#111111",
+    "bgTertiary": "#1a1a1a",
+    "border": "#2a2a2a",
+    "redPrimary": "#ff1a1a",
+    "redHover": "#ff3333",
+    "onlineGreen": "#22c55e",
+    "gold": "#f5c518",
+    "textPrimary": "#ffffff",
+    "textSecondary": "#a0a0a0"
+  },
+  "announcement": {
+    "enabled": false,
+    "title": "BETA PHASE",
+    "body": "We Are Currently in Beta Phase",
+    "ctaLabel": "Request Beta Tester Role",
+    "ctaUrl": "https://discord.com/channels/1208096708886794311/1425232732107309158"
+  },
+  "socials": [
+    {
+      "id": "discord",
+      "label": "Discord",
+      "href": "https://discord.pulse-rp.com",
+      "icon": "discord"
+    },
+    {
+      "id": "youtube",
+      "label": "Youtube",
+      "href": "https://youtube.com/@ThePulseRP",
+      "icon": "youtube"
+    },
+    {
+      "id": "tiktok",
+      "label": "TikTok",
+      "href": "https://tiktok.com/@ThePulseRP",
+      "icon": "tiktok"
+    }
+  ],
+  "subscriptions": {
+    "enabled": true,
+    "kofiUsername": "pulseroleplay",
+    "kofiVerificationToken": "0c449f2e-4838-451c-85eb-fbadf1de2fe9",
+    "tiers": [
+      {
+        "name": "Silver",
+        "kofiUrl": "https://ko-fi.com/pulseroleplay/tiers"
+      },
+      {
+        "name": "Gold",
+        "kofiUrl": "https://ko-fi.com/pulseroleplay/tiers"
+      },
+      {
+        "name": "Crimson",
+        "kofiUrl": "https://ko-fi.com/pulseroleplay/tiers"
+      }
+    ]
+  },
+  "server": {
+    "maxPlayers": 10
+  }
+}

@@ -1,0 +1,71 @@
+[
+  {
+    "steamId": "76561199545844491",
+    "username": "TVCTICALHD",
+    "type": "allowlist",
+    "typeLabel": "FiveM Allowlist Application",
+    "answers": {
+      "banned": "<p>WADWADWA</p>",
+      "staff-work": [
+        "Player Reports",
+        "Event Creation"
+      ],
+      "experience": "<p>DWADWADWADWADAD</p>",
+      "motivation": "<p>WADWADWAD</p>",
+      "impartiality": "<p>ADWADWA</p>",
+      "availability": "<p>WADWADWA</p>",
+      "characters": "<p>WADWAD</p>",
+      "acknowledgement": "Yes, I understand!"
+    },
+    "id": "app_1778470193870_y2w69u",
+    "submittedAt": 1778470193870,
+    "status": "pending"
+  },
+  {
+    "steamId": "76561199545844491",
+    "username": "TVCTICALHD",
+    "type": "staff-allowlist",
+    "typeLabel": "FiveM Staff Application (Allowlist)",
+    "answers": {
+      "banned": "<p>adbwadwadwad</p>",
+      "staff-work": [
+        "Player Reports",
+        "Event Creation"
+      ],
+      "experience": "<p>dwadwadaw</p>",
+      "motivation": "<p>dwadwad</p>",
+      "impartiality": "<p>wawaddadwa</p>",
+      "characters": "<p>adwadawdawd</p>",
+      "availability": "<p>wadawd</p>",
+      "acknowledgement": "Yes, I understand!"
+    },
+    "id": "app_1777602778794_nw8pfr",
+    "submittedAt": 1777602778794,
+    "status": "pending"
+  },
+  {
+    "id": "app_001",
+    "steamId": "76561198000000001",
+    "username": "CrimsonRP",
+    "type": "allowlist",
+    "typeLabel": "FiveM Allowlist Application",
+    "submittedAt": 1777569001431,
+    "status": "denied",
+    "answers": {
+      "Have you ever been banned?": "No.",
+      "Experience?": "Active in two RP servers for 2 years."
+    }
+  },
+  {
+    "id": "app_002",
+    "steamId": "76561198000000002",
+    "username": "NorthSideMedic",
+    "type": "staff-public",
+    "typeLabel": "FiveM Staff Application (Public)",
+    "submittedAt": 1777497001431,
+    "status": "pending",
+    "answers": {
+      "Why do you want to be Pulse RP staff?": "I want to help newcomers and grow the city."
+    }
+  }
+]
